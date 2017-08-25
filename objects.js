@@ -1,4 +1,4 @@
 var playlist = {
   queen: 'Bohemian Rhapsody',
-  beatles: 
+  beatles: 'Hey Jude'
 }
