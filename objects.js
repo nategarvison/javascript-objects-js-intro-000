@@ -1,9 +1,11 @@
 var playlist = {
-  // queen: 'Bohemian Rhapsody'
+  queen: 'Bohemian Rhapsody'
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = songTitle;
+}
+var playlist = {
 }
 
 function removeFromPlaylist(playlist, artistName) {
